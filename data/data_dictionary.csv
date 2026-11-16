@@ -1,0 +1,9 @@
+file,column,description
+students.csv,synthetic_attendance_persona,Generator metadata; exclude from model features.
+students.csv,latent_base_attendance_probability,Generator-only latent value; exclude from model features.
+attendance.csv,present_label,"Model A target: 1=Present, 0=Absent."
+attendance.csv,days_to_nearest_exam,Feature derived from assumed exam dates.
+timetable.csv,applicable_batch,All or lab batch for which that schedule row applies.
+lab_batches.csv,*_lab_batch,Synthetic lab batch assignment by subject.
+academic_calendar.csv,calendar_type,"Teaching day, assumed holiday/event, or assumed exam day."
+subjects.csv,difficulty_rating_synthetic,Illustrative synthetic 1–5 rating.

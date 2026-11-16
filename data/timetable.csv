@@ -1,0 +1,51 @@
+day,time_slot,slot_number,subject_code,subject_name,session_type,applicable_batch,notes
+Monday,10:10-11:00,2,IoTA,IoT & Automation,Practical/Programming,All,
+Monday,12:10-13:00,4,MLE,Machine Learning Essentials,Theory,All,
+Monday,13:10-14:00,5,CS,Cyber Security,Theory,All,
+Monday,15:10-16:00,7,DC,Distributed Computing,Theory,All,
+Monday,16:10-17:00,8,MLE,Machine Learning Essentials,Lab,B1,Parallel lab group; applies only to assigned batch.
+Monday,16:10-17:00,8,TOC,Theory of Computation,Lab,B2,Parallel lab group; applies only to assigned batch.
+Monday,16:10-17:00,8,DC,Distributed Computing,Lab,B3,Parallel lab group; applies only to assigned batch.
+Monday,17:10-18:00,9,MLE,Machine Learning Essentials,Lab,B1,Parallel lab group; applies only to assigned batch.
+Monday,17:10-18:00,9,TOC,Theory of Computation,Lab,B2,Parallel lab group; applies only to assigned batch.
+Monday,17:10-18:00,9,DC,Distributed Computing,Lab,B3,Parallel lab group; applies only to assigned batch.
+Tuesday,10:10-11:00,2,IoTA,IoT & Automation,Practical/Programming,All,
+Tuesday,12:10-13:00,4,TOC,Theory of Computation,Theory,All,
+Tuesday,14:10-15:00,6,FAI,Foundations of AI,Theory,All,
+Tuesday,15:10-16:00,7,DC,Distributed Computing,Theory,All,
+Tuesday,16:10-17:00,8,CS,Cyber Security,Lab,B1,Parallel lab group; applies only to assigned batch.
+Tuesday,16:10-17:00,8,BMC,Business Models Canvas,Lab,B2,Parallel lab group; applies only to assigned batch.
+Tuesday,16:10-17:00,8,MLE,Machine Learning Essentials,Lab,B3,Parallel lab group; applies only to assigned batch.
+Tuesday,17:10-18:00,9,CS,Cyber Security,Lab,B1,Parallel lab group; applies only to assigned batch.
+Tuesday,17:10-18:00,9,BMC,Business Models Canvas,Lab,B2,Parallel lab group; applies only to assigned batch.
+Tuesday,17:10-18:00,9,MLE,Machine Learning Essentials,Lab,B3,Parallel lab group; applies only to assigned batch.
+Wednesday,10:10-11:00,2,IoTA,IoT & Automation,Practical/Programming,All,
+Wednesday,13:10-14:00,5,DC,Distributed Computing,Theory,All,
+Wednesday,15:10-16:00,7,CS,Cyber Security,Theory,All,
+Wednesday,16:10-17:00,8,BMC,Business Models Canvas,Lab,B1,Parallel lab group; applies only to assigned batch.
+Wednesday,16:10-17:00,8,MLE,Machine Learning Essentials,Lab,B2,Parallel lab group; applies only to assigned batch.
+Wednesday,16:10-17:00,8,TOC,Theory of Computation,Lab,B3,Parallel lab group; applies only to assigned batch.
+Wednesday,17:10-18:00,9,BMC,Business Models Canvas,Lab,B1,Parallel lab group; applies only to assigned batch.
+Wednesday,17:10-18:00,9,MLE,Machine Learning Essentials,Lab,B2,Parallel lab group; applies only to assigned batch.
+Wednesday,17:10-18:00,9,TOC,Theory of Computation,Lab,B3,Parallel lab group; applies only to assigned batch.
+Thursday,09:10-10:00,1,IoTA,IoT & Automation,Lab,All,Thursday IoTA lab represented as two 50-minute attendance units.
+Thursday,10:10-11:00,2,IoTA,IoT & Automation,Lab,All,Thursday IoTA lab represented as two 50-minute attendance units.
+Thursday,11:10-12:00,3,FAI,Foundations of AI,Theory,All,
+Thursday,12:10-13:00,4,TOC,Theory of Computation,Theory,All,
+Thursday,13:10-14:00,5,CS,Cyber Security,Theory,All,
+Thursday,15:10-16:00,7,MLE,Machine Learning Essentials,Theory,All,
+Thursday,16:10-17:00,8,TOC,Theory of Computation,Lab,B1,Parallel lab group; applies only to assigned batch.
+Thursday,16:10-17:00,8,DC,Distributed Computing,Lab,B2,Parallel lab group; applies only to assigned batch.
+Thursday,16:10-17:00,8,CS,Cyber Security,Lab,B3,Parallel lab group; applies only to assigned batch.
+Thursday,17:10-18:00,9,TOC,Theory of Computation,Lab,B1,Parallel lab group; applies only to assigned batch.
+Thursday,17:10-18:00,9,DC,Distributed Computing,Lab,B2,Parallel lab group; applies only to assigned batch.
+Thursday,17:10-18:00,9,CS,Cyber Security,Lab,B3,Parallel lab group; applies only to assigned batch.
+Friday,12:10-13:00,4,TOC,Theory of Computation,Theory,All,
+Friday,13:10-14:00,5,FAI,Foundations of AI,Theory,All,
+Friday,15:10-16:00,7,MLE,Machine Learning Essentials,Theory,All,
+Friday,16:10-17:00,8,DC,Distributed Computing,Lab,B1,Parallel lab group; applies only to assigned batch.
+Friday,16:10-17:00,8,CS,Cyber Security,Lab,B2,Parallel lab group; applies only to assigned batch.
+Friday,16:10-17:00,8,BMC,Business Models Canvas,Lab,B3,Parallel lab group; applies only to assigned batch.
+Friday,17:10-18:00,9,DC,Distributed Computing,Lab,B1,Parallel lab group; applies only to assigned batch.
+Friday,17:10-18:00,9,CS,Cyber Security,Lab,B2,Parallel lab group; applies only to assigned batch.
+Friday,17:10-18:00,9,BMC,Business Models Canvas,Lab,B3,Parallel lab group; applies only to assigned batch.

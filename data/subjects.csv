@@ -1,0 +1,8 @@
+subject_code,subject_name,faculty_code_from_timetable,attendance_threshold_pct,difficulty_rating_synthetic
+IoTA,IoT & Automation,PRG,80,5
+FAI,Foundations of AI,KH,80,5
+MLE,Machine Learning Essentials,AR,80,4
+TOC,Theory of Computation,HRC,80,4
+CS,Cyber Security,DP,80,5
+DC,Distributed Computing,VC,80,5
+BMC,Business Models Canvas,GS/JS,80,2
